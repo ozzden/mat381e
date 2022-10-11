@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Stanek, Ashley E. (ORCID: 0000-0001-5184-2126)</origin>
+        <origin>von Biela, Vanessa R. (ORCID: 0000-0002-7139-5981)</origin>
+        <origin>Laske, Sarah M. (ORCID: 0000-0002-6096-0420)</origin>
+        <origin>Dunton, Kenneth H. (ORCID: 0000-0003-3498-8021)</origin>
+        <origin>Carey, Michael P. (ORCID: 0000-0002-3327-8995)</origin>
+        <origin>O'Donnell, Jonathan A. (ORCID: 0000-0001-7031-9808)</origin>
+        <pubdate>20221003</pubdate>
+        <title>Nearshore Fish Isotope Values, Beaufort Sea, Alaska, 2017-2019</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, Alaska</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>Suggested Citation: Stanek, A.E., von Biela, V.R., Laske, S.M., Dunton, K.H., Carey, M.P., O'Donnell, J.A., 2022, Nearshore fish isotope values, Beaufort Sea, Alaska, 2017-2019: U.S. Geological Survey data release, https://doi.org/10.5066/P9DAFMJD</othercit>
+        <onlink>https://doi.org/10.5066/P9DAFMJD</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>U.S. Geological Survey, Alaska Science Center</origin>
+            <pubdate>2017</pubdate>
+            <title>Nearshore Fish Surveys in the Beaufort Sea</title>
+            <geoform>website</geoform>
+            <serinfo>
+              <sername>Alaska Science Portal</sername>
+              <issue>425</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Anchorage, Alaska</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <othercit>This is a link to the broader USGS Alaska Science Center research project supported by these data. Users will find a description of the research project and links to associated reports, publications, and data products.</othercit>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=425</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset contains isotope values of muscle tissue from fish collected in the nearshore Beaufort Sea, Alaska in summers 2017-2019. </abstract>
+      <purpose>Stable isotope values of carbon and nitrogen were measured for use in mixing models to assess the relative contribution of marine and terrestrial organic matter to the fish food-webs of the nearshore Beaufort Sea, Alaska.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20170805</begdate>
+          <enddate>20190813</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>observed</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Beaufort Sea</descgeog>
+      <bounding>
+        <westbc>-149.6031</westbc>
+        <eastbc>-143.3705</eastbc>
+        <northbc>70.08670</northbc>
+        <southbc>70.54034</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:ASC489</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>Biota</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keyword Thesaurus</themekt>
+        <themekey>Animals/vertebrates</themekey>
+        <themekey>Fish</themekey>
+        <themekey>Estuarine habitat</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS CSA Biocomplexity Thesaurus</themekt>
+        <themekey>Coastal fisheries</themekey>
+        <themekey>Animal morphology</themekey>
+        <themekey>Carbon isotopes</themekey>
+        <themekey>Body composition</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Wildlife</themekey>
+        <themekey>Aquatic Ecosystems</themekey>
+        <themekey>Marine ecosystems</themekey>
+        <themekey>Isotopic analysis</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Stable isotopes</themekey>
+        <themekey>Nitrogen isotopes</themekey>
+        <themekey>Carbon isotopes</themekey>
+      </theme>
+      <place>
+        <placekt>USGS Geographic Names Information System (GNIS)</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>Beaufort Sea</placekey>
+        <placekey>Stefansson Sound</placekey>
+        <placekey>Simpson Lagoon</placekey>
+        <placekey>Kaktovik Lagoon</placekey>
+        <placekey>Jago Lagoon</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>Arctic Cisco</taxonkey>
+        <taxonkey>Arctic Cod</taxonkey>
+        <taxonkey>Arctic Flounder</taxonkey>
+        <taxonkey>Arctic Smelt</taxonkey>
+        <taxonkey>Broad Whitefish</taxonkey>
+        <taxonkey>Chum Salmon</taxonkey>
+        <taxonkey>Dolly Varden</taxonkey>
+        <taxonkey>Fourhorn Sculpin</taxonkey>
+        <taxonkey>Humpback Whitefish</taxonkey>
+        <taxonkey>Least Cisco</taxonkey>
+        <taxonkey>Ninespine Stickleback</taxonkey>
+        <taxonkey>Pink Salmon</taxonkey>
+        <taxonkey>Saffron Cod</taxonkey>
+        <taxonkey>Threespine Stickleback</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>ITIS Integrated Taxonomic Information System</origin>
+              <pubdate>Unknown</pubdate>
+              <title>ITIS Integrated Taxonomic Information System</title>
+              <geoform>online database</geoform>
+              <pubinfo>
+                <pubplace>online</pubplace>
+                <publish>ITIS-North America</publish>
+              </pubinfo>
+              <othercit>Taxonomic details retrieved January 22, 2021, from the Integrated Taxonomic Information System online database https://www.itis.gov</othercit>
+              <onlink>https://www.itis.gov</onlink>
+            </citeinfo>
+          </classcit>
+          <classmod>In the associated manuscript and data, we refer to Osmerus dentex by the common name Arctic smelt following Mecklenburg CW, Møller PR, Steinke D (2011) Biodiversity of arctic marine fishes: taxonomy and zoogeography. Mar Biodivers 41:109–140. https://doi.org/10.1007/s12526-010-0070-z </classmod>
+        </classsys>
+        <idref>
+          <citeinfo>
+            <origin>Catherine W. Mecklenburg</origin>
+            <origin>T. Anthony Mecklenburg</origin>
+            <origin>Lyman K. Thorsteinson</origin>
+            <pubdate>2002</pubdate>
+            <title>Fishes of Alaska</title>
+            <geoform>book chapter</geoform>
+            <pubinfo>
+              <pubplace>Bethesda, Maryland</pubplace>
+              <publish>American Fisheries Society</publish>
+            </pubinfo>
+          </citeinfo>
+        </idref>
+        <ider>
+          <cntinfo>
+            <cntperp>
+              <cntper>Vanessa R. von Biela</cntper>
+              <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>3210 University Drive</address>
+              <city>Anchorage</city>
+              <state>AK</state>
+              <postal>99508</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>907-786-7000</cntvoice>
+            <cntemail>ascweb@usgs.gov</cntemail>
+          </cntinfo>
+        </ider>
+        <taxonpro>Fish were identified in the field by skilled observers following Mecklenberg et al. 2002.</taxonpro>
+      </taxonsys>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Actinopterygii</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Teleostei</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Acanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Gasterosteiformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Gasterosteoidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Gasterosteidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Gasterosteus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Gasterosteus aculeatus</taxonrv>
+                                  <common>Alaskan stickleback</common>
+                                  <common>Threespine stickleback</common>
+                                  <common>TSN: 166365</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Pungitius</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Pungitius pungitius</taxonrv>
+                                  <common>Ninespine stickleback</common>
+                                  <common>Tenspined stickleback</common>
+                                  <common>TSN: 166387</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Pleuronectiformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Pleuronectoidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Family</taxonrn>
+                              <taxonrv>Pleuronectidae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Subfamily</taxonrn>
+                                <taxonrv>Pleuronectinae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Tribe</taxonrn>
+                                  <taxonrv>Pleuronectini</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Genus</taxonrn>
+                                    <taxonrv>Liopsetta</taxonrv>
+                                    <taxoncl>
+                                      <taxonrn>Species</taxonrn>
+                                      <taxonrv>Liopsetta glacialis</taxonrv>
+                                      <common>Arctic Flounder</common>
+                                      <common>TSN: 172913</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Scorpaeniformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Cottoidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Superfamily</taxonrn>
+                              <taxonrv>Cottoidea</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Cottidae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Myoxocephalus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Myoxocephalus quadricornis</taxonrv>
+                                    <common>Fourhorn sculpin</common>
+                                    <common>TSN: 167316</common>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Paracanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Gadiformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Gadidae</taxonrv>
+                            <common>cods</common>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Gadinae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Boreogadus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Boreogadus saida</taxonrv>
+                                  <common>Arctic cod</common>
+                                  <common>Polar cod</common>
+                                  <common>TSN: 164706</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Eleginus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Eleginus gracilis</taxonrv>
+                                  <common>Saffron cod</common>
+                                  <common>TSN: 164708</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Protacanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Salmoniformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Salmonidae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Coregoninae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Coregonus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Coregonus autumnalis</taxonrv>
+                                  <common>Arctic cisco</common>
+                                  <common>TSN: 161933</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Coregonus sardinella</taxonrv>
+                                  <common>Least cisco</common>
+                                  <common>TSN: 161938</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Coregonus nasus</taxonrv>
+                                  <common>Broad whitefish</common>
+                                  <common>TSN: 161936</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Coregonus pidschian</taxonrv>
+                                  <common>Humpback whitefish</common>
+                                  <common>TSN: 161937</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Salmoninae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Oncorhynchus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Oncorhynchus gorbuscha</taxonrv>
+                                  <common>Pink salmon</common>
+                                  <common>Humpbacked salmon</common>
+                                  <common>TSN: 161975</common>
+                                </taxoncl>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Oncorhynchus keta</taxonrv>
+                                  <common>Chum salmon</common>
+                                  <common>TSN: 161976</common>
+                                </taxoncl>
+                              </taxoncl>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Salvelinus</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Salvelinus malma</taxonrv>
+                                  <common>Dolly Varden</common>
+                                  <common>TSN: 162000</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Osmeriformes</taxonrv>
+                          <taxoncl>
+                            <taxonrn>Suborder</taxonrn>
+                            <taxonrv>Osmeroidei</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Superfamily</taxonrn>
+                              <taxonrv>Osmeroidea</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Family</taxonrn>
+                                <taxonrv>Osmeridae</taxonrv>
+                                <taxoncl>
+                                  <taxonrn>Genus</taxonrn>
+                                  <taxonrv>Osmerus</taxonrv>
+                                  <taxoncl>
+                                    <taxonrn>Species</taxonrn>
+                                    <taxonrv>Osmerus mordax</taxonrv>
+                                    <common>rainbow smelt</common>
+                                    <taxoncl>
+                                      <taxonrn>Subspecies</taxonrn>
+                                      <taxonrv>Osmerus mordax dentex</taxonrv>
+                                      <common>TSN: 162044</common>
+                                    </taxoncl>
+                                  </taxoncl>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None</accconst>
+    <useconst>It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This project was funded by the Outer Continental Shelf (OCS) Studies Program and the Changing Arctic Ecosystems Program of the U.S. Geological Survey Ecosystems Mission Area.</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Stanek, A.E.</origin>
+        <origin>von Biela, V.R.</origin>
+        <origin>Laske, S.M.</origin>
+        <origin>Taylor, R.L.</origin>
+        <origin>Dunton, K.H.</origin>
+        <pubdate>2022</pubdate>
+        <title>Barrier islands influence the assimilation of terrestrial energy in nearshore fishes</title>
+        <geoform>journal article</geoform>
+        <serinfo>
+          <sername>Estuarine, Coastal and Shelf Science</sername>
+          <issue>108094</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>online</pubplace>
+          <publish>Elsevier</publish>
+        </pubinfo>
+        <othercit>Stanek, A.E., von Biela, V.R., Laske, S.M., Taylor, R.L., Dunton, K.H. 2022. Barrier islands influence the assimilation of terrestrial energy in nearshore fishes. Estuarine, Coastal and Shelf Science  doi:10.1016/j.ecss.2022.108094</othercit>
+        <onlink>https://doi.org/10.1016/j.ecss.2022.108094</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attributes were spot checked and values were sorted to identify possible errors.  All information collected in the field was verified with datasheets.</attraccr>
+    </attracc>
+    <logic>Attribute values fall within expected ranges and were proofed for duplication and omission.  When information did not apply or was not recorded, "NA" is used.</logic>
+    <complete>No data were omitted, dataset is complete.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Positions were acquired using hand-held GPS. Positions have an estimated accuracy within 10 m.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>Fyke nets were deployed in water ~1 m deep and up to 50 m from shore. Most fish captured in fyke nets were released live after identification, counting, and measurement every 24 h, with a subset saved for this study. Beam trawls (1 m or 3 m) were opportunistically deployed in 2017 and 2018 near the fyke net stations to ensure fish using habitat away from the shoreline were represented in this analysis.</methdesc>
+      </method>
+      <method>
+        <methtype>Lab</methtype>
+        <methdesc>Fish were stored frozen at -20 °C prior to laboratory work. In the laboratory, each fish was thawed and measured to the nearest mm. Length was measured from the tip of the snout to the fork of the tail (fork length), or to the end of the tail for species without forked tails (total length). Following length measurement, an epaxial muscle sample was collected for stable isotope analysis and kept frozen at -20 °C. Muscle samples were freeze-dried for at least 48 hours and homogenized by grinding to a fine powder with a mortar and pestle. Approximately 1 mg of sample was weighed into tin cups. Analysis was performed at the University of Texas at Austin Marine Science Institute core facilities in Port Aransas, Texas, USA. A ThermoFisher Scientific EA-Isolink CNSOH Elemental Analyzer (Waltham, Massachusetts, USA) coupled to a ThermoFisher Scientific Delta V isotope ratio mass spectrometer in continuous-flow (He) mode was used to determine fish muscle carbon and nitrogen isotopic compositions. All values are reported in delta (δ) notation, relative to standards VPDB for δ13C and air for δ15N. Calibration of δ13C to VPDB and δ15N to air was achieved using  standards USGS-40 (δ13C = -26.39 ‰; δ15N = -4.52 ‰) and USGS-41a (δ13C = 37.63 ‰; δ15N = 47.57 ‰). Accuracy  was evaluated using a casein protein standard purchased from EA Consumables (Pennsauken, New Jersey, USA). Note: lipids were not extracted from tissue samples and a lipid correction factor has not been applied to values. Additional details are available in Stanek et al 2022.</methdesc>
+      </method>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Stanek, A.E.</origin>
+            <origin>von Biela, V.R.</origin>
+            <origin>Laske, S.M.</origin>
+            <origin>Taylor, R.L.</origin>
+            <origin>Dunton, K.H.</origin>
+            <pubdate>2022</pubdate>
+            <title>Barrier islands influence the assimilation of terrestrial energy in nearshore fishes</title>
+            <geoform>journal article</geoform>
+            <serinfo>
+              <sername>Estuarine, Coastal and Shelf Science</sername>
+              <issue>108094</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>online</pubplace>
+              <publish>Elsevier</publish>
+            </pubinfo>
+            <othercit>Stanek, A.E., von Biela, V.R., Laske, S.M., Taylor, R.L., Dunton, K.H. 2022. Barrier islands influence the assimilation of terrestrial energy in nearshore fishes. Estuarine, Coastal and Shelf Science  doi:10.1016/j.ecss.2022.108094</othercit>
+            <onlink>https://doi.org/10.1016/j.ecss.2022.108094</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>journal article</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2022</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Stanek et al. 2005</srccitea>
+        <srccontr>Provides details for isotopic analysis</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Bulk tissue samples were analyzed for carbon and nitrogen stable isotope composition at the University of Texas at Austin, Marine Science Institute Core Facilities Laboratory, Port Aransas, TX.</procdesc>
+        <procdate>2019</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Point</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.0001</latres>
+        <longres>0.0001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System of 1984 (WGS84)</horizdn>
+        <ellips>World Geodetic System of 1984 (WGS84)</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>fish_stableIsotopes_beaufort_stanek.csv</enttypl>
+        <enttypd>Table containing carbon and nitrogen stable isotope values of muscle from fish collected in the nearshore Beaufort Sea, Alaska, along with unique fish identifier, date and location of collection, and length measured in millimeters of each fish. Presented in a Comma Separated Value (CSV) formatted table.</enttypd>
+        <enttypds>Author defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FishID</attrlabl>
+        <attrdef>The unique identifier for each fish whose muscle was analyzed for stable isotope composition. The FishIDs start with a four-letter code reflecting the common name with two letters from the first word and two letters from the second word. The second part of the FishID is a three-digit number. Numbers may not be sequential as stable isotope analysis was not conducted on all fish sampled. Example: FOSC160 refers to Fourhorn (FO) Sculpin (SC) individual 160. Note: The common name for Arctic Smelt at the initiation of this study was Rainbow Smelt, consequently the code RASM is used throughout to refer to Arctic Smelt.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <udom>The unique identifier for individual fish.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CommonName</attrlabl>
+        <attrdef>Common name of fish species. Common names are listed in the Keywords/Taxon section and details are provided in the Taxonomy section of this metadata record.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <udom>Common name of fish species.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of fish collection.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Date was not reported</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2017-08-05</rdommin>
+            <rdommax>2019-08-13</rdommax>
+            <attrunit>Date (YYYY-MM-DD)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region</attrlabl>
+        <attrdef>The Alaskan Beaufort Sea region in which each fish was collected.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>eastern</edomv>
+            <edomvd>Eastern identifies fish collected in Jago Lagoon or Kaktovik Lagoon, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>central</edomv>
+            <edomvd>Central identifies fish collected in Simpson Lagoon or Stefansson Sound, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>The lagoon or sound in the Beaufort Sea from which each fish was collected.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Kaktovik Lagoon</edomv>
+            <edomvd>Fish was collected in Kaktovik Lagoon, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Jago Lagoon</edomv>
+            <edomvd>Fish was collected in Jago Lagoon, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Simpson Lagoon</edomv>
+            <edomvd>Fish was collected in Simpson Lagoon, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Stefansson Sound</edomv>
+            <edomvd>Fish was collected in Stefansson Sound, Alaska.</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude of location of fish collection.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>70.0867</rdommin>
+            <rdommax>70.5403</rdommax>
+            <attrunit>Decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude of location of fish collection.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>-149.6031</rdommin>
+            <rdommax>-143.3705</rdommax>
+            <attrunit>Decimal degrees (WGS84)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>mmLength</attrlabl>
+        <attrdef>The fork or total length in millimeters, measured from the tip of the snout to the fork of the tail, or to the end of the tail for species without forked tails. Lengths were measured on thawed fish that had been previously frozen. Total length was measured for Saffron Cod, Fourhorn Sculpin, Arctic Flounder, Threespine Stickleback, Ninespine Stickleback; fork length was measured for all other species.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>32</rdommin>
+            <rdommax>677</rdommax>
+            <attrunit>millimeters (mm)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>d13C</attrlabl>
+        <attrdef>The carbon stable isotope value in standard delta notation (δ13C). Value reported reflects the mean when replicates were analyzed. Note: lipids were not extracted from tissue samples.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-34.11</rdommin>
+            <rdommax>-17.30</rdommax>
+            <attrunit>permil (‰, parts per thousand), relative to standard</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>d15N</attrlabl>
+        <attrdef>The nitrogen stable isotope value in standard delta notation (δ15N). Value reported reflects the mean when replicates were analyzed. Note: lipids were not extracted from tissue samples.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.78</rdommin>
+            <rdommax>17.93</rdommax>
+            <attrunit>permil (‰, parts per thousand) relative to standard</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CtoN</attrlabl>
+        <attrdef>The ratio of percent carbon to percent nitrogen in a sample.</attrdef>
+        <attrdefs>Author defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>Author defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.70</rdommin>
+            <rdommax>10.74</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>The U.S. Geological Survey, Alaska Science Center is the authoritative source and distributor of these data.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data for other purposes or on all computer systems, nor shall the act of distribution constitute any such warranty. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formcont>Data are distributed in a Zip package containing data in CSV format and FGDC metadata in XML and HTML formats.</formcont>
+          <filedec>Compression applied by the 7-Zip utility using the default compression level [5]. The Zip package can be decompressed and unpacked by open source or commercially available unzip tools.</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9DAFMJD</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20221003</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>Alaska</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata (CSDGM)</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
